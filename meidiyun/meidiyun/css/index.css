@@ -1,0 +1,250 @@
+#phoneHead,
+#cedaohang,
+#gundongyiyuan,
+.phoneContent2 {
+    display: none;
+}
+
+.content {
+    z-index: 999;
+    width: 100%;
+    min-width: 1200px;
+    background: #ffffff;
+    /*    padding-bottom: 70px;*/
+}
+
+.content .top {
+    width: 100%;
+    min-width: 1200px;
+    font-size: 3.8rem;
+    text-align: center;
+    padding-top: 90px;
+    /*    padding-bottom: 60px;*/
+    color: #333333;
+}
+
+.cont1 {
+    width: 50%;
+    min-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #666666;
+    line-height: 30px;
+}
+
+.cont2 {
+    width: 100%;
+    min-width: 1200px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cont2 i {
+    color: #848484;
+}
+
+.content .advantage {
+    width: 80%;
+    min-width: 1200px;
+    margin: 0 auto;
+    margin-top: 65px;
+}
+
+.content .advantage li {
+    width: 31%;
+    display: inline-block;
+    margin-left: 1.5%;
+    position: relative;
+}
+
+.content .advantage li p {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 280px;
+    background: rgba(0, 0, 0, .4);
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #ffffff;
+}
+
+.content .advantage li img {
+    width: 100%;
+    height: 280px;
+}
+
+.content1 {
+    z-index: 80;
+    width: 100%;
+    min-width: 1200px;
+    /*    background: #f1f2f6;*/
+    background: #fff;
+    overflow: hidden;
+    padding-bottom: 85px;
+}
+
+.content1 #title1 {
+    width: 100%;
+    min-width: 1200px;
+    min-width: 1200px;
+    font-size: 3.8rem;
+    text-align: center;
+    padding-top: 90px;
+    /*    padding-bottom: 30px;*/
+    color: #333333;
+}
+
+.content1 ul {
+    width: 100%;
+    min-width: 1200px;
+    float: left;
+    margin-top: 65px;
+    overflow: hidden;
+}
+
+.content1 ul li {
+    float: left;
+    position: relative;
+    width: 12.5%;
+    min-width: 150px;
+    overflow: hidden;
+}
+
+.content1 ul li span {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 1.8rem;
+    background: rgba(24, 24, 24, .4);
+    width: 100%;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    color: #fff;
+    display: none;
+}
+
+.content1 ul li img {
+    width: 100%;
+    height: 150px;
+}
+
+
+/*
+.content1 ul {
+    width: 45%;
+    min-width: 800px;
+    
+    margin: 0 auto;
+    margin-top: 40px;
+    
+}
+
+.content1 ul li {
+    width: 28%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    margin-left: 30px;
+}
+*/
+
+
+/*
+.content1 ul li img {}
+
+.content1 ul li span {
+    width: 80%;
+    min-width: 190px;
+    height: 100%;
+    position: absolute;
+    font-size: 1.2rem;
+    line-height: 30px;
+    color: #282828;
+    left: 0;
+    top: 0;
+    text-align: left;
+    background: #e3e8ef;
+    padding: 0 10%;
+    display: none;
+}
+*/
+
+.content2 {
+    z-index: 80;
+    width: 100%;
+    min-width: 1200px;
+    background: #fff;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.content2 ul {
+    width: 80%;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+
+.content2 ul li {
+    width: 48%;
+    float: left;
+    position: relative;
+    margin-left: 1%;
+}
+
+.content2 ul li img {
+    width: 100%;
+    height: 480px;
+}
+
+.content2 ul li p {
+    width: 100%;
+    min-width: 600px;
+    height: 480px;
+    background: rgba(24, 24, 24, .4);
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+.content2 ul li p .sysb {
+    display: block;
+    border: 2px solid #fff;
+    width: 20%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    margin: 0 auto;
+    color: #fff;
+    margin-top: 160px;
+}
+
+.content2 ul li p .sbsb {
+    margin: 0 auto;
+    display: block;
+    width: 30%;
+    font-size: 1.6rem;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 15px;
+}
+
+.footer {
+    width: 100%;
+    min-width: 1200px;
+    height: 40px;
+    color: #fff;
+    z-index: 999;
+    text-align: center;
+    font-size: 1.2rem;
+    background: #212121;
+}
+
+.footer p {
+    line-height: 40px;
+}

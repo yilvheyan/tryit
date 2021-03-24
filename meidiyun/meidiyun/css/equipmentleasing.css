@@ -1,0 +1,133 @@
+#phoneHead,
+#cedaohang {
+    display: none;
+}
+
+.content {
+    width: 100%;
+    min-width: 1200px;
+    background: #fff;
+    padding-bottom: 90px;
+    padding-top: 90px;
+    text-align: center;
+}
+
+.content .title {
+    width: 90%;
+    min-width: 1200px;
+    /*    background: #ccc;*/
+    margin: 0 auto;
+    text-align: left;
+    font-size: 3.5rem;
+    /*    padding-left: 15%;*/
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dcdbdb;
+    text-indent: 4em;
+}
+
+.content .title span {
+    font-size: 1.6rem;
+    margin-left: 30px;
+}
+
+.content .title span b {
+    margin: 0 8px;
+}
+
+.content .title span i {
+    font-size: 3.2rem;
+}
+
+.content .cont {
+    width: 65%;
+    min-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    /*    color: #666666;*/
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+.cont1 i {
+    font-size: 3rem;
+}
+
+.cont1 span {
+    margin-left: 10px;
+}
+
+.cont1 {
+    width: 65%;
+    min-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.6rem;
+    margin-top: 25px;
+    line-height: 25px;
+}
+
+.content ul {
+    width: 65%;
+    min-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    color: #666666;
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+
+.content ul li {
+    list-style-type: disc;
+    line-height: 30px;
+}
+
+.content .yw {
+    width: 100%;
+    min-width: 1200px;
+    font-size: 3.8rem;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.content img {
+    /*    margin-left: 7%;*/
+    margin-top: 50px;
+}
+
+.contactUs {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.contactUs h2 {
+    margin-top: 30px;
+    font-size: 2.4rem;
+    line-height: 35px;
+}
+
+.contactUs p {
+    font-size: 1.8rem;
+    color: #333;
+    line-height: 25px;
+    margin-top: 15px;
+}
+
+.contactUs p i {
+    font-size: 2.8rem;
+}
+
+.contactUs p span {
+    margin: 0 5px;
+}
+
+.footer {
+    width: 100%;
+    min-width: 1200px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    z-index: 999;
+    text-align: center;
+    font-size: 1.2rem;
+    background: #212121;
+}

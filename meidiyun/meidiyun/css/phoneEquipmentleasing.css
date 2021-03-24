@@ -1,0 +1,129 @@
+#liuchengtu {
+    display: none;
+}
+
+.content {
+    width: 100%;
+    min-width: 300px;
+    background: #fff;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.content .title {
+    display: none;
+}
+
+.content .title1 span:nth-child(1) {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    display: block;
+}
+
+.content .title1 span:nth-child(2) {
+    display: block;
+    font-size: 1.4rem;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.content .cont {
+    width: 90%;
+    min-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    /*    color: #666666;*/
+    font-size: 1.8rem;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.cont1 i {
+    font-size: 3rem;
+}
+
+.cont1 span {
+    margin-left: 10px;
+}
+
+.cont1 {
+    width: 90%;
+    min-width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.6rem;
+    margin-top: 25px;
+    line-height: 25px;
+    text-indent: 2rem;
+}
+
+.content ul {
+    width: 65%;
+    min-width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    color: #666666;
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+
+.content ul li {
+    list-style-type: disc;
+    line-height: 30px;
+}
+
+.content .yw {
+    width: 100%;
+    min-width: 300px;
+    font-size: 3.8rem;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.content img {
+    /*width: 90%;*/
+    /*margin-top: 50px;*/
+}
+
+.contactUs {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.contactUs h2 {
+    margin-top: 30px;
+    font-size: 2.4rem;
+    line-height: 35px;
+}
+
+.contactUs p {
+    font-size: 1.8rem;
+    color: #333;
+    line-height: 25px;
+    margin-top: 15px;
+}
+
+.contactUs p i {
+    font-size: 2.8rem;
+}
+
+.contactUs p span {
+    margin: 0 5px;
+}
+
+.footer {
+    width: 90%;
+    margin: 20px auto;
+    min-width: 300px;
+    color: #000;
+    line-height: 20px;
+    z-index: 999;
+    text-align: center;
+    font-size: 1.2rem;
+    background: #fff;
+}

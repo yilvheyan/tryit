@@ -1,0 +1,84 @@
+#pcHead {
+    display: none;
+}
+
+#cedaohang {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 40%;
+    height: 100%;
+    background: #000;
+    z-index: 99999;
+}
+
+#cedaohang i {
+    display: block;
+    font-size: 1.8rem;
+    color: #d8d8d8;
+    font-weight: 400;
+    margin: 10px 0 0 10px;
+}
+
+#cedaohang ul {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#cedaohang ul li {
+    width: 100%;
+    border-bottom: 1px solid #989898;
+    text-align: center;
+}
+
+#cedaohang ul li a {
+    padding: 10px 0;
+    display: inline-block;
+    width: 90%;
+    color: #d8d8d8;
+    font-size: 1.2rem;
+    word-wrap: break-word;
+}
+
+#cedaohang ul li span {
+    float: right;
+    font-size: 1.2rem;
+    color: #d8d8d8;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+#phoneHead {
+    margin: 10px 0;
+    display: flex;
+    /*å®šä¹‰ä¸ºå¼¹æ€§ç›’*/
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    justify-content: space-between;
+    -webkit-justify-content: space-between;
+    /*è®¾ç½®å­å…ƒç´ å¹³å‡åˆ†å¸ƒ*/
+    align-items: center;
+    -webkit-align-items: center;
+}
+
+#phoneHead .left {
+    margin-left: 13px;
+}
+
+#phoneHead .left i {
+    font-size: 1.4rem;
+    color: #fff;
+}
+
+#phoneHead .right {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+#phoneHead .right a {
+    font-size: 1.2rem;
+    color: #fff;
+    margin: 0 3px;
+}
